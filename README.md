@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 :woman: About me:
 
 - 🔭 I am currently studying for a bachelor's degree in programming and looking for an internship/a trainee position any time in 2023.
-- :school: I'm a primary school teacher by my former profession.
+- :school: A primary school teacher by my former profession
 - 🌱 I am eager to deepen my knowledge about full-stack development and software testing.
 - ⚡ In my free time I snowboard, dance and take care of plants.
