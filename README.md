@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 :woman: About me:
 
-- 🔭 I am currently studying for a bachelor's degree in programming as well as in Full Stack Recruitment Training Program.
+- 🔭 I am currently studying for a bachelor's degree in programming
 - :school: A primary school teacher by my former profession
 - 🌱 I am eager to deepen my knowledge about full-stack development and software testing.
 - ⚡ In my free time I snowboard, dance, climb and take care of plants.
