@@ -1,4 +1,4 @@
-### Kia ora, and welcome to my GitHub profile! 👋
+### Kia ora and welcome to my GitHub profile! 👋
 
 I'm a soon-to-be graduate with a Bachelor's degree in Programming, currently building my skills and exploring new job opportunities in the tech field. My career journey started in education as a primary school teacher, which honed my empathy, communication skills, and commitment to continuous learning—qualities that have been invaluable in my transition to tech.
 
