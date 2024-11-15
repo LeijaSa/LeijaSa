@@ -1,26 +1,13 @@
 ### Kia ora, and welcome to my GitHub profile! 👋
 
-<!--
-**LeijaSa/LeijaSa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- :school: I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 I'm a soon-to-be graduate with a Bachelor's degree in Programming, currently building my skills and exploring new job opportunities in the tech field. My career journey started in education as a primary school teacher, which honed my empathy, communication skills, and commitment to continuous learning—qualities that have been invaluable in my transition to tech.
 
-👩‍💻 About Me:
-🌐 Adventurous & Resilient: I spent three transformative years living in New Zealand, which strengthened my confidence, adaptability, and broadened my life perspective.
-🌱 Eager Learner: I’m passionate about software development and I am actively deepening my knowledge in full-stack development, Angular, React, software testing and cloud computing. My background as a teacher, combined with my career change, has only strengthened my commitment to lifelong learning.
-💡 Driven by Team Spirit: I thrive in collaborative environments and enjoy sharing knowledge and supporting my team members. 
-🔧 Hobbies: In my free time, I stay active by snowboarding, dancing, climbing, and nurturing my indoor plants!
+👩‍💻 **About Me**:  
+🌐 **Adventurous & Resilient**: I spent three transformative years living in New Zealand, which strengthened my confidence, adaptability and broadened my perspective on life.  
+🌱 **Curious & Eager Learner**: I’m passionate about software development, actively expanding my knowledge in full-stack development, Angular, React, software testing and cloud computing. My background as a teacher, combined with my career change, has deepened my commitment to lifelong learning.    
+💡 **Driven by Team Spirit**: I thrive in collaborative environments and enjoy sharing knowledge and supporting my team members.  
+🔧 **Hobbies**: In my free time, I stay active by snowboarding, dancing, climbing, and nurturing my indoor plants!  
+
 
 
 
